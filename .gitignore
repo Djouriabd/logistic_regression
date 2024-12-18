@@ -1,6 +1,5 @@
 # Prerequisites
 *.d
-#this is only a test to see if its works
 
 # Object files
 *.o
